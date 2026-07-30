@@ -1,9 +1,18 @@
+<p align="center">
+    <img src="https://raw.githubusercontent.com/abdulhaqqomeiza/abdulhaqqomeiza/refs/heads/main/assets/sao-banner.png" width="100%">
+</p>
 
-# Hi, I'm Shuaib Abdulhaqq Omeiza 👋
+<h1 align="center">
+Hi, I'm Shuaib Abdulhaqq Omeiza 👋
+</h1>
 
-### Aspiring Frontend Developer
+<h3 align="center">
+Aspiring Frontend Developer
+</h3>
 
+<p align="center">
 Building clean, accessible, and user-friendly web experiences while continuously improving through real-world projects.
+</p>
 
 ---
 
