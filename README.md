@@ -38,17 +38,13 @@ I'm passionate about continuous learning and enjoy turning ideas into real, usab
 ## 📊 GitHub Statistics
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdulhaqqomeiza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulhaqqomeiza&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhaqqomeiza&layout=compact&theme=github_dark&hide_border=true" />
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhaqqomeiza&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=abdulhaqqomeiza&theme=github-dark-blue&hide_border=true" />
-
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhaqqomeiza&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🛠 Tech Stack
