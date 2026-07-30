@@ -51,11 +51,11 @@ I'm passionate about continuous learning and enjoy turning ideas into real, usab
 
 ## 🚀 Currently Working On
 
-- 🌱 Learning JavaScript fundamentals
-- 🎨 Building my personal portfolio website
-- 📚 Improving my CSS layout and responsive design skills
-- 💻 Practicing Git and GitHub every day
-- 🎯 Preparing for my first Frontend Developer role
+- Learning JavaScript fundamentals
+- Building my personal portfolio website
+- Improving my CSS layout and responsive design skills
+- Practicing Git and GitHub every day
+- Preparing for my first Frontend Developer role
 
 ## 📌 Featured Projects
 
