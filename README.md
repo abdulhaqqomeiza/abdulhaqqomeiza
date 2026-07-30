@@ -35,18 +35,6 @@ I'm passionate about continuous learning and enjoy turning ideas into real, usab
 - ⏳ TypeScript
 - ⏳ Next.js
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdulhaqqomeiza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhaqqomeiza&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhaqqomeiza&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 🛠 Tech Stack
 
 <p align="left">
