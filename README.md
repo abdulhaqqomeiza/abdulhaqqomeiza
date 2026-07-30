@@ -7,7 +7,7 @@ Hi, I'm Shuaib Abdulhaqq Omeiza 👋
 </h1>
 
 <h3 align="center">
-Frontend Developer | Continuously Learning
+Aspiring Frontend Developer
 </h3>
 
 <p align="center">
