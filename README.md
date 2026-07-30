@@ -84,6 +84,12 @@ A responsive landing page created for educational institutions with modern secti
 
 > 🚧 Coming Soon
 
+## 💭 Development Philosophy
+
+I believe great websites are more than attractive interfaces—they should be fast, accessible, responsive, and enjoyable to use.
+
+As I continue learning, my goal is to write clean, maintainable code, understand the "why" behind every solution, and build products that create real value for users.
+
 ## 🌐 Connect With Me
 
 <p align="left">
