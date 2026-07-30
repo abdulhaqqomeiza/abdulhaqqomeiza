@@ -49,6 +49,14 @@ I'm passionate about continuous learning and enjoy turning ideas into real, usab
 - Contribute to open-source projects.
 - Land my first Frontend Developer role.
 
+## 🚀 Currently Working On
+
+- 🌱 Learning JavaScript fundamentals
+- 🎨 Building my personal portfolio website
+- 📚 Improving my CSS layout and responsive design skills
+- 💻 Practicing Git and GitHub every day
+- 🎯 Preparing for my first Frontend Developer role
+
 ## 🌐 Connect With Me
 
 <p align="left">
