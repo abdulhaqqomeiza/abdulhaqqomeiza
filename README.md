@@ -57,6 +57,33 @@ I'm passionate about continuous learning and enjoy turning ideas into real, usab
 - 💻 Practicing Git and GitHub every day
 - 🎯 Preparing for my first Frontend Developer role
 
+## 📌 Featured Projects
+
+### Personal Portfolio Website
+A modern, responsive portfolio built with HTML and CSS, showcasing my skills, projects, and journey as a frontend developer.
+
+**Tech Used:** HTML • CSS • Git • GitHub
+
+> 🚧 Currently in development
+
+---
+
+### E-Commerce Landing Page
+A responsive landing page designed with a focus on clean UI, accessibility, and modern layouts.
+
+**Tech Used:** HTML • CSS
+
+> 🚧 Coming Soon
+
+---
+
+### School Management Landing Page
+A responsive landing page created for educational institutions with modern sections, reusable components, and mobile-first design.
+
+**Tech Used:** HTML • CSS
+
+> 🚧 Coming Soon
+
 ## 🌐 Connect With Me
 
 <p align="left">
