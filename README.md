@@ -64,7 +64,7 @@ A modern, responsive portfolio built with HTML and CSS, showcasing my skills, pr
 
 **Tech Used:** HTML • CSS • Git • GitHub
 
-> 🚧 Currently in development
+> [Live Demo](https://abdulhaqqomeiza.vercel.app/)
 
 ---
 
@@ -105,7 +105,7 @@ As I continue learning, my goal is to write clean, maintainable code, understand
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https:abdulhaqqomeiza.vercel.app">
+  <a href="https://abdulhaqqomeiza.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
